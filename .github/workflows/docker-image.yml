@@ -3,7 +3,7 @@ name: Docker Image CI
 on:
   pull_request:
     branches:
-      - 'Hello-World3'
+      - 'HelloWorld3'
 
 jobs:
 
