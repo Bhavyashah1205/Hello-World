@@ -3,6 +3,8 @@ name: Docker Image CI
 on:
   pull_request:
     branches: [ "HelloWorld3","master" ]
+  fork:
+    branches: [ "HelloWorld3","master" ]
 
 jobs:
 
