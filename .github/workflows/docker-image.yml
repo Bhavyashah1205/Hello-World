@@ -2,8 +2,7 @@ name: Docker Image CI
 
 on:
   pull_request:
-    branches:
-      - 'HelloWorld3'
+    branches: [ "HelloWorld3" ]
 
 jobs:
 
